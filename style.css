@@ -43,7 +43,7 @@
 
 
 .apresentar_imagem {
-    float: right;
+    float: center;
     margin: 20px;
     max-width: 300px;
     height: auto;
